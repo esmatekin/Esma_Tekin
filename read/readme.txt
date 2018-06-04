@@ -1,0 +1,1 @@
+Bu proje kapsamýnda link, modem, þifreleme,makine dili ve pixel konusunu ortaokul öðrencileri  düzeyinde hikayeleþtirdim ve videoya dönüþtürdüm. Bu videolarý aðrýlýklý olarak html kullanarak hazýrladýðým web sitesine gömdüm. Web sitesinide github alanýma yükledim.
