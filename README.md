@@ -1,1 +1,1 @@
-# Esma_Tekin
+Bu proje kapsamında link, modem, şifreleme,makine dili ve pixel konusunu ortaokul öğrencileri  düzeyinde hikayeleştirdim ve videoya dönüştürdüm. Bu videoları ağrılıklı olarak html kullanarak hazırladığım web sitesine gömdüm. Web sitesinide github alanıma yükledim.
